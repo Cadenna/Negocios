@@ -1,4 +1,3 @@
-//validation form
 function validateForm(){
 
     let name = document.getElementById('inputName').value;
